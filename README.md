@@ -30,3 +30,4 @@
 
 </p>
 
+RestAPI란? : https://velog.io/@magnoliarfsit/Session-HTTP-RESTful-HTTP-API-1
