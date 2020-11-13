@@ -31,3 +31,16 @@
 </p>
 
 Restful API란? : https://velog.io/@magnoliarfsit/Session-HTTP-RESTful-HTTP-API-1
+
+MYSQL vs ORACLE 차이점 : https://kgon.tistory.com/33
+<pre>
+  1) null값 확인 함수 다름 : ORACLE: NVL / MYSQL : IFNULL
+  2) 현재 날짜 확인 : ORACLE : SYSDATE / MYSQL : NOW()
+  3) 날짜포맷 변환 : ORACLE : TO_CHAR() / MYSQL : DATE_FORMAT()
+  4) 요일 변환 숫자 범위 : OACLE : 일월화수목금토일 -> 1,2,3,4,5,6,7 / MYSQL : 일월화수목금토일 -> 0,1,2,3,4,5,6
+  5) 문자 문자 합치는 법
+  6) 형변환
+  7) 페이징 처리
+  8)시퀀스 사용시 다음 번호로 물려받는 법
+
+</pre>
