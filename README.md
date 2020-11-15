@@ -34,6 +34,9 @@ Restful API란? : https://velog.io/@magnoliarfsit/Session-HTTP-RESTful-HTTP-API-
 
 MYSQL vs ORACLE 차이점 : https://kgon.tistory.com/33
 <pre>
+
+
+a
   1) null값 확인 함수 다름 : ORACLE: NVL / MYSQL : IFNULL
   2) 현재 날짜 확인 : ORACLE : SYSDATE / MYSQL : NOW()
   3) 날짜포맷 변환 : ORACLE : TO_CHAR() / MYSQL : DATE_FORMAT()
