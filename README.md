@@ -1,7 +1,7 @@
 # -DevNote
 <b>IT개발자들이 쓴 좋은글 모음</b>
 
-대기업 SI근무자가 말하는 SI회사의 장점 - <a href="https://preamtree.tistory.com/132">https://preamtree.tistory.com/132</a><br>
+대기업 SI근무자가 말하는 SI회사의 장점 - <a href="https://preamtree.tistory.com/132">https://preamtree.tistory.com/132</a><br> 
 대기업 SI근무자가 말하는 SI회사의 단점 - <a href = "https://preamtree.tistory.com/133">https://preamtree.tistory.com/133</a>
 
 <b>우아한형제들 사내 룰 11가지 </b>
